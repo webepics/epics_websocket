@@ -1,5 +1,5 @@
 import asyncio
-from epics_websocket.webwebsocket_server import WebsocketServer, Message
+from epics_websocket.websocket_server import WebsocketServer, Message
 from caproto.threading.client import Context
 from functools import partial
 
